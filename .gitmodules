@@ -1,0 +1,6 @@
+[submodule "ui"]
+	path = ui
+	url = https://github.com/PFPGroup/knowledger-ui.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/PFPGroup/knowledger-backend.git
